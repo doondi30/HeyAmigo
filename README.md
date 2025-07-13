@@ -15,7 +15,7 @@ A fun web app where making friends is effortless... but saying “no”? Not so 
 ## Links 📌
 
 - Live Site URL: [Click Here](https://doondi30.github.io/meet-mates-online/)
-- Project Repository:https://github.com/doondi30/meet-mates-online
+- Project Repository:[Click Here](https://github.com/doondi30/meet-mates-online)
 - Let's Connect: [LinkedIn](https://www.linkedin.com/in/doondi)
 
 ---
